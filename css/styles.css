@@ -1,13 +1,13 @@
-.root{
+:root {
     --primario: #9C27B0;
     --primarioOscuro: #89119d;
     --secundario: #FFCE00;
     --secundarioOscuro: rgb(233, 187, 2);
     --blanco: #fff;
     --negro: #000;
-    --fuentePrincipal: "Staatliches" , cursive;
-
+    --fuentePrincipal: "Staatliches", cursive;
 }
+
 
 html {
     box-sizing: border-box;
